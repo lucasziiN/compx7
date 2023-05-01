@@ -1,0 +1,11 @@
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe.config
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Form1.resources
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM_Simulator.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.exe
+C:\Users\lucasziN\Desktop\prac 7 - compx\exercise2\ATM Simulator\ATM Simulator\obj\Debug\ATM Simulator.pdb

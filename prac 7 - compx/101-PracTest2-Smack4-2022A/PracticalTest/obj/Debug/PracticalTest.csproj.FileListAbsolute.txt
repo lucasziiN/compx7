@@ -1,0 +1,33 @@
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\bin\Debug\PracticalTest.exe.config
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\bin\Debug\PracticalTest.exe
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\bin\Debug\PracticalTest.pdb
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.SuggestedBindingRedirects.cache
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.Form1.resources
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.Properties.Resources.resources
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.GenerateResource.cache
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.exe
+D:\University\COMPX101\2022\PracticalTest\PracticalTest\obj\Debug\PracticalTest.pdb
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\bin\Debug\PracticalTest.exe.config
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\bin\Debug\PracticalTest.exe
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\bin\Debug\PracticalTest.pdb
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.SuggestedBindingRedirects.cache
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.Form1.resources
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.Properties.Resources.resources
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.GenerateResource.cache
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.exe
+D:\University\COMPX101\2022\101-PracTest2-Smack4-Template-2022A\PracticalTest\obj\Debug\PracticalTest.pdb
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\bin\Debug\PracticalTest.exe.config
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\bin\Debug\PracticalTest.exe
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\bin\Debug\PracticalTest.pdb
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.AssemblyReference.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.Form1.resources
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.Properties.Resources.resources
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.GenerateResource.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.exe
+C:\Users\lucasziN\Desktop\prac 7 - compx\101-PracTest2-Smack4-2022A\PracticalTest\obj\Debug\PracticalTest.pdb
